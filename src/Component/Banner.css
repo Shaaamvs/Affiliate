@@ -1,0 +1,242 @@
+.bannerimage {
+    background-image: url('../Images/img 4.jpg');
+    width: 100%; /* Set the width to 100% */
+    height: 550px; /* Set the height to 300 pixels (adjust as needed) */
+    background-size: cover; /* Adjusts the background image to cover the entire element */
+    background-repeat: no-repeat; /* Prevents the image from repeating */
+    background-position: center center; /* Centers the background image */
+  }
+  
+  .myText {
+    text-align: center;
+margin-top: 15% !important;
+color: white;
+font-weight: 500;
+font-family: 'Montserrat', sans-serif !important;
+
+}
+
+.question{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 35px;
+    
+}
+
+.green{
+    color: green;
+}
+
+
+
+.content{
+    margin-top: 4%;
+    margin-left:15%;
+}
+
+
+.stepglance{
+    margin-top: 2%;
+    margin-left: 14%;
+}
+
+.marketing{
+    font-size: 20px;
+    line-height: 35px;
+    font-family: 'Montserrat', sans-serif !important;
+
+
+
+
+}
+
+
+.StepataGlance{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.toolssearch{
+    font-family: 'Montserrat', sans-serif;
+
+}
+.flex-shrink-1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+ 
+}
+
+
+div#accordionExample {
+    width: 75%;
+    margin-left: 14%;
+}
+.accordion-button {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 100%;
+    padding: 1rem 1.25rem;
+    font-size: 20px;
+    color: white;
+    text-align: left;
+    background-color:  #12AA84;
+    border: 0;
+    border-radius: 0;
+    overflow-anchor: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out,border-radius .15s ease;
+}
+
+
+.accordion-item {
+    background-color: #fff;
+border: none !important;}
+
+.accordion-item{
+    padding: 10px;
+}
+
+.accordion-button{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.babyproduct{  
+      font-family: 'Montserrat', sans-serif;
+
+font-weight: 500;
+
+}
+
+.text-muted{
+    font-family: 'Montserrat', sans-serif;
+}
+.card-title{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+
+}
+.accordion-button:not(.collapsed) {
+    color: white;
+    font-size: 20px;
+    background-color:  #12AA84;
+    box-shadow: inset 0 -1px 0 rgba(0,0,0,.125);
+}
+
+
+.seemore{
+    font-weight: bold;
+    color: black;
+}
+
+.divider{
+    border: 1px solid lightblue;
+}
+
+
+.greencolour{
+    background-color: white !important;
+    border: 1px solid #12AA84 !important;
+    color: #11B98F;
+    font-weight: bold;
+}
+
+.toolsbut{
+    background-color: #11B98F;
+    color: #fff;
+}
+.greencolour:hover{
+    color: black !important;
+}
+
+.Tools1{
+    background-color: #12AA84 !important;
+    color: white !important;
+    font-weight: bold;
+}
+
+.card.border-0.shadow.p-0.mb-0.bg-body.rounded {
+    width: 100%;
+    height: 100%;
+}
+/* small */
+
+@media (max-width: 576px) { 
+
+
+   p.Affiliate{
+    width: 317px;
+   }
+
+
+   h1.myText.display-4 {
+    margin-top: 50% !important;
+}
+
+
+.content{
+    margin-top: 4%;
+    margin-left: 2%;
+}
+
+
+.col-sm-12.col-xs-12.col-md-12.col-lg-12.col-xxl-12.col-xl-12 {
+    width: 100%;
+    height: 100%;
+}
+
+col-lg-4.col-md-4.col-xl-4.col-xxl-4.col-sm-12.col-xs-12 {
+    padding-top: 36px;
+}
+button.accordion-button.collapsed {
+    font-size: 18px;
+}
+
+
+h3.babyproduct {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+
+.accordion-item {
+    width: 133%;
+}
+
+
+
+hr.divider {
+    display: none;
+}
+ }
+
+
+
+ /* medium */
+@media(min-width:768px) and (max-width:991.98px){
+
+body{
+    overflow-x: hidden;
+}
+
+    .content{
+        margin-top: 4%;
+        margin-left: 3%;
+    }
+ 
+    
+    div#accordionExample {
+        width: 75%;
+        margin-left: 14%;
+    }
+
+    .col-lg-4.col-md-4.col-xl-4.col-xxl-4.col-sm-12.col-xs-12 {
+        width: 100%;
+        height: 100%;
+        padding-top: 20px;
+    }
+
+    h1.myText.display-4 {
+        margin-top: 25% !important;
+    }
+}
