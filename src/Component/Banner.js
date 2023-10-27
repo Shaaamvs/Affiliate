@@ -19,7 +19,7 @@ export default function Banner() {
       </div>
 
 
-<div className="container">
+{/* <div className="container">
         <div className="row">
             <div className="content">
             <div className="col-12">
@@ -55,7 +55,7 @@ export default function Banner() {
             </div>
         
         </div>
-      </div>
+      </div> */}
 
     <Glance/>
     </>

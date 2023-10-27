@@ -16,7 +16,7 @@ export default function Glance() {
   return (
     <>
     
-    <div className='container'>
+    <div className='container-fluid'>
         <div className='row stepglance '>
             <div className='col-lg-12 col-xs-12 col-sm-12 col-md-12 col-xl-12 col-xxl-12'>
             <h2 className='text-left StepataGlance '>Steps at a Glance</h2>
