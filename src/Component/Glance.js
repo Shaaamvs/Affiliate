@@ -43,7 +43,7 @@ export default function Glance() {
 <br/>
 </div>
 
-<div className='row mt-5 '>
+<div className='row mt-5 bg-light bg-gradient '>
             <div className='col-lg-4 col-md-4 col-xl-4 col-xxl-4 col-sm-12 col-xs-12 '>
                 <div className="card border-0 shadow p-0 mb-0 bg-body rounded">
                   <div className='row'>
@@ -244,7 +244,8 @@ export default function Glance() {
         </h2>
         <div id="collapseTwo" className="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
           <div className="accordion-body">
-            <strong>This is the second item's accordion body.</strong> It is hidden by default, until the collapse plugin adds the appropriate classes that we use to style each element. These classes control the overall appearance, as well as the showing and hiding via CSS transitions. You can modify any of this with custom CSS or overriding our default variables. It's also worth noting that just about any HTML can go within the <code>.accordion-body</code>, though the transition does limit overflow.
+
+
           </div>
         </div>
       </div>
